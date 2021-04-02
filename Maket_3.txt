@@ -1,0 +1,7 @@
+***** Fonts ****
+MyriadPro Cond Bold Regular (not found)     font-family: 'Abel', sans-serif;
+Rokkit                     font-family: 'Rokkitt', serif;
+Quicksand Regular          font-family: 'Quicksand', sans-serif;
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abel&family=Quicksand&family=Rokkitt&display=swap" rel="stylesheet">

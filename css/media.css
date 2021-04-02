@@ -1,0 +1,375 @@
+/* ******** MEDIA START ******** */
+@media (max-width: 992px){
+    .container{
+        max-width: 960px;
+    }
+    
+    .nav {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+    
+    .header__title{
+        font-size: 60px;
+    }
+    
+    .header__subtitle{
+        font-size: 22px;
+    }
+    
+    .myself__name{
+        font-size: 36px;
+        margin: 110px 0 30px;
+    }
+    
+    .myself__text {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    
+    .cards{
+        margin: 55px 0;
+    }
+    
+    .item__title {
+        font-size: 20px;
+    }
+    
+    .item__text {
+        line-height: 30px;
+        font-size: 15px;
+    }
+    
+    .works__img {
+        max-width: 400px;
+        max-height: 250px;
+    }
+    
+    .works__title {
+        font-size: 26px;
+        margin: 8px 15px 5px;
+    }
+    
+    .works__subtitle {
+        margin-left: 15px;
+    }
+    
+    
+    .view__btn {
+        font-size: 24px;
+    }
+    
+    .form__title {
+        font-size: 60px;
+    }
+    
+}
+
+
+
+@media (max-width: 768px){
+    .container{
+        max-width: 720px;
+    }
+    
+    .header{
+        min-height: 450px;
+    }
+    
+    .nav{
+        margin-top: 35px;
+        font-size: 13px;
+    }
+    
+    .title{
+        margin: 140px 0 140px;
+    }
+    
+    .header__title{
+        font-size: 35px;
+    }
+    
+    .header__subtitle{
+        font-size: 16px;
+    }
+    
+  
+    .go__btn{
+        font-size: 15px;
+        padding: 10px 30px;
+        bottom: -9%;
+    }
+    
+    .col-md-6{
+        width: var(--col-6);
+    }
+    
+    .col-md-7{
+        width: var(--col-7);
+    }
+    
+    .myself .row{
+        justify-content: center;
+    }
+    
+    .works .row{
+        justify-content: center;
+    }
+    
+    .works__img {
+        max-width: 350px;
+        max-height: 250px;
+    }
+    
+    
+    
+    .myself__name{
+        font-size: 26px;
+        margin: 100px 0 30px;
+    }
+    
+    .myself__text {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    
+    .cards{
+        margin: 55px 0;
+    }
+    
+    .item__img img{
+        max-width: 40px;
+        max-height: 40px;
+    }
+    
+    .item__title {
+        font-size: 16px;
+        margin: 22px 0 25px;
+    }
+    
+    .item__text {
+        line-height: 25px;
+        font-size: 14px;
+    }
+    
+    .works__img_hover span:nth-child(1) {
+        padding: 5px;
+        box-shadow: 0 0 0 5px rgb(155 89 182 / 60%);
+    }
+    
+    
+    .view__btn {
+        font-size: 18px;
+        padding: 15px 20px;
+        padding-right: 15px;
+    }
+    
+    .form__title {
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .form__name, 
+    .form__mail, 
+    .form__message {
+        font-size: 25px;
+    }
+    
+    .form__btn {
+        margin: 25px auto;
+        margin-right: 6px;
+        font-size: 20px;
+    }
+    
+    .footer__icon{
+        width: 70px;
+        height: 70px;
+    }
+    
+    .footer__text {
+        font-size: 24px;
+    }
+    
+    .footer {
+        min-height: 200px;
+    }
+}
+
+
+
+
+@media (max-width: 576px) {
+    .container{
+        max-width: 540px;
+    }
+    
+    .header{
+        min-height: 270px;
+    }
+    
+    .nav {
+        margin-top: 25px;
+    }
+    
+    nav ul li{
+        display: none;
+    }
+    
+    .title{
+        margin: 70px 0 60px;
+    }
+    
+    .header__title{
+        font-size: 22px;
+    }
+    
+    .header__subtitle{
+        font-size: 12px;
+    }
+    
+    .go__btn{
+        font-size: 9px;
+        padding: 7px 20px;
+        bottom: -9%;
+        box-shadow: 0 0 0 4px rgba(155, 89, 182, 0.6);
+    }
+    
+    
+    .cards{
+        margin: 45px 0;
+    }
+    
+    .myself__name {
+        font-size: 17px;
+        margin: 70px 0 20px;
+    }
+    
+    .myself__text {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    
+    .works__img_hover span:nth-child(1) {
+        padding: 3px;
+        box-shadow: 0 0 0 3px rgb(155 89 182 / 60%);
+    }
+    
+    .works__img_hover span:nth-child(1) img{
+        width: 8px;
+        height: 8px;
+    }
+    
+    .works__img_hover span:nth-child(2) {
+        box-shadow: 0 0 0 6px rgb(155 89 182 / 60%);
+    }
+    
+    .works__title {
+        font-size: 14px;
+        margin: 3px 10px 0;
+    }
+    
+    .works__subtitle{
+        font-size: 10px;
+        margin: 0 0 0 10px;
+    }
+    .col-sm-8{
+        width: var(--col-8);
+    }
+    
+    
+    .item__img img {
+        max-width: 30px;
+        max-height: 30px;
+    }
+    
+    .item__title {
+        font-size: 16px;
+    }
+    
+    .item__text {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    
+    .works__img {
+        max-width: 210px;
+        max-height: 140px;
+    }
+    
+    .works__title {
+        font-size: 14px;
+        margin: 6px 10px 3px;
+    }
+    
+    .view__btn {
+        font-size: 11px;
+        padding: 5px 10px 5px 5px;
+    }   
+    
+    .view__btn img{
+        width: 25px;
+        height: 15px;
+        padding-left: 10px;
+    }
+    
+    .form__title {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .form__name, 
+    .form__mail, 
+    .form__message {
+        font-size: 15px;
+    }
+    
+    .form__name, .form__mail {
+        margin-bottom: 15px;
+        padding: 5px 8px;
+        width: 100%;
+        
+    }
+    
+    .form__message {
+        height: 100px;
+        padding: 5px 8px;
+    }
+    
+    
+    .form__btn {
+        margin: 15px auto;
+        margin-right: 4px;
+        font-size: 15px;
+        padding: 3px 10px;
+        box-shadow: 0 0 0 4px rgb(155 89 182 / 60%);
+}
+    
+    .works_card::before,
+    .works_card::after{
+        margin: 45px 0;
+    }
+    
+    
+    .footer__icon {
+        width: 40px;
+        height: 40px;
+        margin-top: -10px;
+    }
+    
+    .footer__icon img {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .footer__icon:nth-of-type(3) img{
+        width: 15px;
+    }
+    
+    .footer__text {
+        font-size: 20px;
+        margin: 45px 0;
+    }
+    .footer {
+        min-height: 170px;
+    }
+}
