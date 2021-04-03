@@ -146,7 +146,7 @@ a{
 
 
 .items{
-    max-width: 310px;
+    width: 90%;
     font-family: 'Abel', sans-serif;
     margin-top: 75px;
 }
@@ -183,10 +183,8 @@ a{
 
 .works__img{
     position: relative;
-    max-width: 450px;
     width: 100%;
-    max-height: 330px;
-    height: 100%;
+    height: auto;
     margin-bottom: 60px;
     background-size: cover;
     
@@ -255,7 +253,7 @@ a{
     color: white;
     font-family: 'Rokkitt', serif;
     font-weight: 400;
-    margin: 20px 20px 6px;
+    margin: 15px 20px 6px;
 }
 
 .works__subtitle{

@@ -33,6 +33,11 @@
     width: var(--col-12);
 }
 
+.col-11{
+    padding: 0 15px;
+    width: var(--col-11);
+}
+
 .col-9{
     padding: 0 15px;
     width: var(--col-9);
@@ -43,6 +48,11 @@
     width: var(--col-9);
 }
 
+.col-6{
+    padding: 0 15px;
+    width: var(--col-6);
+}
+
 .col-5{
     padding: 0 15px;
     width: var(--col-5);
@@ -51,6 +61,16 @@
 .col-4{
     padding: 0 15px;
     width: var(--col-4);
+}
+
+.col-3{
+    padding: 0 15px;
+    width: var(--col-3);
+}
+
+.col-2{
+    padding: 0 15px;
+    width: var(--col-2);
 }
 
 
